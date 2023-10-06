@@ -2,7 +2,7 @@
 This Program Can Crack Zip Password With Password list 
 
 # NOTICE⚠️
-This Program Is Educational Purposes Only Not For Cyber Crime or Anything Else
+This Program Is For Educational Purposes Only Not For Cyber Crime or Anything Else
 
 # Installation
 
