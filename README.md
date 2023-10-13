@@ -3,7 +3,7 @@ This Program Can Crack Zip Password With Password list
 
 # NOTICE⚠️
 This Program Is For Educational Purposes Only Not For Cyber Crime or Anything Else
-
+[This Tool isn't Available in Termux]
 # Installation
 
 apt install fcrackzip
